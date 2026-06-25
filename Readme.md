@@ -1,3 +1,5 @@
+(Just a small note that if you want to view the code then please visit the pdf file since github had some problems with the original .ipynb file)
+
 # Research Assistant Agent
 
 This project implements a Research Assistant Agent designed to fetch academic papers, process their content, and provide answers to user queries using a Retrieval-Augmented Generation (RAG) pipeline. It also includes an evaluation framework using RAGAS to assess the quality of the RAG system.
